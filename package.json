@@ -1,0 +1,24 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-names.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbrundagejr/node-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbrundagejr/node-practice/issues"
+  },
+  "homepage": "https://github.com/jbrundagejr/node-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
